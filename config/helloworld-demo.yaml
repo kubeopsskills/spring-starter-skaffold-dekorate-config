@@ -1,0 +1,4 @@
+spring:
+    profiles: dev
+helloworld:
+    message: "Hello KubeOps"
